@@ -45,7 +45,7 @@ awesome-image-video-prompts/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/awesome-image-video-prompts.git
+   git clone https://github.com/CodeTrainerMan/awesome-image-video-prompts.git
    cd awesome-image-video-prompts
    ```
 
