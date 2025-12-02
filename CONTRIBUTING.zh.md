@@ -32,7 +32,7 @@
 #### 2. 克隆您的 Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/awesome-image-video-prompts.git
+git clone https://github.com/CodeTrainerMan/awesome-image-video-prompts.git
 cd awesome-image-video-prompts
 ```
 
@@ -93,32 +93,29 @@ git push origin feature/your-feature-name
 
 #### 提示词文件结构
 
-每个提示词文件应遵循以下结构：
+每个提示词文件应遵循以下简化结构：
 
 ```markdown
 # 提示词标题
 
-## 描述
-简要描述此提示词生成的内容。
+## Prompt
+[您的提示词文本 - 可以是中文或英文]
 
-## 提示词
-[您的提示词文本]
+## Image
+![图片标题](./image-filename.png)
 
-## 负面提示词（可选）
-[生成时要避免的内容]
+## Creative Thinking / 创作思路
 
-## 参数（可选）
-- 宽高比：16:9
-- 模型：Stable Diffusion v1.5
-- 步数：50
-- CFG 比例：7
+[您的创作思路和设计理念 - 可以是中文或英文]
 
-## 使用说明（可选）
-使用此提示词的其他说明或技巧。
+## Source / 来源
 
-## 标签
-摄影, 风景, 日落, 4k
+[来源链接或原作者 - 如适用]
 ```
+
+**注意**：
+- Prompt 和"Creative Thinking / 创作思路"部分都可以使用中文或英文，根据您的偏好而定。您不需要提供双语版本，选择一种您熟悉的语言即可。
+- "Source / 来源"部分是可选的，但如果提示词受到其他来源的启发或改编，建议添加。英文文件使用"Source"，中文文件使用"来源"。
 
 #### 质量标准
 

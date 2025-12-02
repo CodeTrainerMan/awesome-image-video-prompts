@@ -20,7 +20,7 @@
 - 📚 **组织有序**：按风格、主题和用例分类
 - 🔄 **持续更新**：定期更新新的提示词
 - 🌍 **社区驱动**：欢迎社区贡献
-- 📝 **文档完善**：清晰的描述和使用示例
+- 📝 **文档完善**：清晰的描述和创作思路
 
 ### 📁 项目结构
 
@@ -59,66 +59,6 @@ awesome-image-video-prompts/
    - 粘贴到您的 AI 生成工具中
    - 根据项目需要进行自定义
 
-### 🛠️ 支持的 AI 工具
-
-本仓库包含适用于各种 AI 生成平台的提示词：
-
-- **图像生成**：
-  - DALL·E 2/3 (OpenAI)
-  - Midjourney
-  - Stable Diffusion
-  - Adobe Firefly
-  - Leonardo.ai
-  - Runway ML
-  - Imagen (Google)
-
-- **视频生成**：
-  - Runway Gen-2
-  - Pika Labs
-  - Synthesia
-  - D-ID
-  - Stable Video Diffusion
-
-### 📖 使用示例
-
-#### 图像提示词
-
-**基础示例：**
-```
-夕阳下的宁静风景，黄金时刻光线，
-照片级真实感，4K，细节丰富，电影构图
-```
-
-**高级示例（Midjourney）：**
-```
-/imagine prompt: 未来主义城市夜景，赛博朋克风格，
-霓虹灯反射在湿润的街道上，电影级光线，
---ar 16:9 --v 6 --style raw
-```
-
-**Stable Diffusion 示例：**
-```
-(杰作, 最佳质量, 超精细), 
-美丽的风景, 日落, 黄金时刻,
-照片级真实感, 4K, 细节丰富, 电影构图,
-负面提示词: 模糊, 低质量, 扭曲
-```
-
-#### 视频提示词
-
-**基础示例：**
-```
-夜晚繁华城市的延时摄影，霓虹灯，
-流畅的相机运动，电影级画质，60fps
-```
-
-**Runway Gen-2 示例：**
-```
-电影级无人机镜头，在黎明时分缓慢上升穿越薄雾森林，
-揭示隐藏的湖泊，流畅的相机运动，
-电影级调色，4K 分辨率
-```
-
 ### 💡 提示词编写技巧
 
 #### 最佳实践
@@ -140,19 +80,19 @@ awesome-image-video-prompts/
 ### 📚 提示词分类
 
 #### 图像分类
-- **艺术风格**：抽象、印象派、超现实主义、极简主义
-- **摄影**：人像、风景、街头、野生动物、微距
-- **数字艺术**：概念艺术、角色设计、环境设计
-- **产品**：产品摄影、电商、广告
-- **建筑**：室内设计、外观、城市规划
-- **时尚**：T台、编辑、街头风格、复古
+- **[艺术风格](prompts/image/artistic/README.md)**：抽象、印象派、超现实主义、极简主义
+- **[摄影](prompts/image/photography/README.md)**：人像、风景、街头、野生动物、微距
+- **[数字艺术](prompts/image/digital-art/README.md)**：概念艺术、角色设计、环境设计
+- **[产品](prompts/image/product/README.md)**：产品摄影、电商、广告
+- **[建筑](prompts/image/architecture/README.md)**：室内设计、外观、城市规划
+- **[时尚](prompts/image/fashion/README.md)**：T台、编辑、街头风格、复古
 
 #### 视频分类
-- **电影风格**：黑色电影、科幻、纪录片、动作
-- **动画**：2D 动画、3D 动画、动态图形
-- **商业**：广告、产品演示、品牌视频
-- **社交媒体**：短视频、故事、Reels
-- **教育**：教程、解说、演示
+- **[电影风格](prompts/video/cinematic/README.md)**：黑色电影、科幻、纪录片、动作
+- **[动画](prompts/video/animation/README.md)**：2D 动画、3D 动画、动态图形
+- **[商业](prompts/video/commercial/README.md)**：广告、产品演示、品牌视频
+- **[社交媒体](prompts/video/social-media/README.md)**：短视频、故事、Reels
+- **[教育](prompts/video/educational/README.md)**：教程、解说、演示
 
 ### 🔍 如何搜索提示词
 
@@ -183,21 +123,7 @@ awesome-image-video-prompts/
 
 ### 🤝 贡献
 
-我们欢迎您的贡献！您可以通过以下方式帮助：
-
-1. **添加新提示词**：提交您觉得有用的提示词
-2. **改进组织方式**：建议更好的分类方法
-3. **修复问题**：报告错误或提出改进建议
-4. **完善文档**：帮助改进文档
-
-**📖 详细的贡献指南，请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)**
-
-#### 快速贡献指南
-
-- 遵循现有的文件结构
-- 为提示词添加清晰的描述
-- 尽可能包含使用示例
-- 提交前测试提示词
+我们欢迎您的贡献！详细的贡献指南，请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ### 📋 提示词格式规范
 

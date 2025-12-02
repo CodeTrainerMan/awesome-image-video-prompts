@@ -20,7 +20,7 @@ A curated collection of high-quality prompts for image and video generation.
 - 📚 **Well Organized**: Categorized by style, theme, and use case
 - 🔄 **Regular Updates**: Continuously updated with new prompts
 - 🌍 **Community Driven**: Contributions welcome from the community
-- 📝 **Documentation**: Clear descriptions and usage examples
+- 📝 **Documentation**: Clear descriptions and creative thinking
 
 ### 📁 Project Structure
 
@@ -59,66 +59,6 @@ awesome-image-video-prompts/
    - Paste into your AI generation tool
    - Customize as needed for your project
 
-### 🛠️ Supported AI Tools
-
-This repository includes prompts compatible with various AI generation platforms:
-
-- **Image Generation**:
-  - DALL·E 2/3 (OpenAI)
-  - Midjourney
-  - Stable Diffusion
-  - Adobe Firefly
-  - Leonardo.ai
-  - Runway ML
-  - Imagen (Google)
-
-- **Video Generation**:
-  - Runway Gen-2
-  - Pika Labs
-  - Synthesia
-  - D-ID
-  - Stable Video Diffusion
-
-### 📖 Usage Examples
-
-#### Image Prompts
-
-**Basic Example:**
-```
-A serene landscape at sunset, golden hour lighting, 
-photorealistic, 4K, detailed, cinematic composition
-```
-
-**Advanced Example (Midjourney):**
-```
-/imagine prompt: A futuristic cityscape at night, cyberpunk style, 
-neon lights reflecting on wet streets, cinematic lighting, 
---ar 16:9 --v 6 --style raw
-```
-
-**Stable Diffusion Example:**
-```
-(masterpiece, best quality, ultra-detailed), 
-a beautiful landscape, sunset, golden hour, 
-photorealistic, 4K, detailed, cinematic composition,
-Negative prompt: blurry, low quality, distorted
-```
-
-#### Video Prompts
-
-**Basic Example:**
-```
-A time-lapse of a bustling city at night, neon lights, 
-smooth camera movement, cinematic quality, 60fps
-```
-
-**Runway Gen-2 Example:**
-```
-A cinematic drone shot slowly ascending over a misty forest at dawn, 
-revealing a hidden lake, smooth camera movement, 
-cinematic color grading, 4K resolution
-```
-
 ### 💡 Prompt Writing Tips
 
 #### Best Practices
@@ -140,19 +80,19 @@ cinematic color grading, 4K resolution
 ### 📚 Prompt Categories
 
 #### Image Categories
-- **Artistic Styles**: Abstract, Impressionist, Surreal, Minimalist
-- **Photography**: Portrait, Landscape, Street, Wildlife, Macro
-- **Digital Art**: Concept Art, Character Design, Environment Design
-- **Product**: Product Photography, E-commerce, Advertising
-- **Architecture**: Interior Design, Exterior, Urban Planning
-- **Fashion**: Runway, Editorial, Street Style, Vintage
+- **[Artistic Styles](prompts/image/artistic/README.md)**: Abstract, Impressionist, Surreal, Minimalist
+- **[Photography](prompts/image/photography/README.md)**: Portrait, Landscape, Street, Wildlife, Macro
+- **[Digital Art](prompts/image/digital-art/README.md)**: Concept Art, Character Design, Environment Design
+- **[Product](prompts/image/product/README.md)**: Product Photography, E-commerce, Advertising
+- **[Architecture](prompts/image/architecture/README.md)**: Interior Design, Exterior, Urban Planning
+- **[Fashion](prompts/image/fashion/README.md)**: Runway, Editorial, Street Style, Vintage
 
 #### Video Categories
-- **Cinematic**: Film Noir, Sci-Fi, Documentary, Action
-- **Animation**: 2D Animation, 3D Animation, Motion Graphics
-- **Commercial**: Advertisement, Product Demo, Brand Video
-- **Social Media**: Short-form Content, Stories, Reels
-- **Educational**: Tutorial, Explainer, Presentation
+- **[Cinematic](prompts/video/cinematic/README.md)**: Film Noir, Sci-Fi, Documentary, Action
+- **[Animation](prompts/video/animation/README.md)**: 2D Animation, 3D Animation, Motion Graphics
+- **[Commercial](prompts/video/commercial/README.md)**: Advertisement, Product Demo, Brand Video
+- **[Social Media](prompts/video/social-media/README.md)**: Short-form Content, Stories, Reels
+- **[Educational](prompts/video/educational/README.md)**: Tutorial, Explainer, Presentation
 
 ### 🔍 How to Search Prompts
 
@@ -183,21 +123,7 @@ A: Different tools excel in different areas. Experiment to find what works best 
 
 ### 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. **Add new prompts**: Submit prompts that you've found useful
-2. **Improve organization**: Suggest better categorization
-3. **Fix issues**: Report bugs or suggest improvements
-4. **Documentation**: Help improve the documentation
-
-**📖 For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md)**
-
-#### Quick Contribution Guidelines
-
-- Follow the existing file structure
-- Add clear descriptions for prompts
-- Include usage examples when possible
-- Test prompts before submitting
+We welcome contributions! For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### 📋 Prompt Format Standards
 

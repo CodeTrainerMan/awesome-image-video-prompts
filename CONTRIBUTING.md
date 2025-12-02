@@ -93,32 +93,29 @@ git push origin feature/your-feature-name
 
 #### Prompt File Structure
 
-Each prompt file should follow this structure:
+Each prompt file should follow this simplified structure:
 
 ```markdown
 # Prompt Title
 
-## Description
-Brief description of what this prompt generates.
-
 ## Prompt
-[Your prompt text here]
+[Your prompt text here - can be in Chinese or English]
 
-## Negative Prompt (Optional)
-[What to avoid in the generation]
+## Image
+![Image Title](./image-filename.png)
 
-## Parameters (Optional)
-- Aspect Ratio: 16:9
-- Model: Stable Diffusion v1.5
-- Steps: 50
-- CFG Scale: 7
+## Creative Thinking / 创作思路
 
-## Usage Notes (Optional)
-Any additional notes or tips for using this prompt.
+[Your creative thinking and design philosophy - can be in Chinese or English]
 
-## Tags
-photography, landscape, sunset, 4k
+## Source / 来源
+
+[Source link or original creator - if applicable]
 ```
+
+**Note**: 
+- Both the Prompt and "Creative Thinking / 创作思路" sections can be written in either Chinese or English, depending on your preference. You don't need to provide both languages - choose one that you're comfortable with.
+- The "Source / 来源" section is optional but recommended if the prompt is inspired by or adapted from another source. Use "Source" for English files and "来源" for Chinese files.
 
 #### Quality Standards
 
