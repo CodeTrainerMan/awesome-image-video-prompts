@@ -164,7 +164,7 @@ cinematic color grading, 4K resolution
 ### ❓ FAQ
 
 **Q: Can I use these prompts commercially?**  
-A: Yes, prompts themselves are generally free to use. However, check the license of generated content based on the AI tool's terms of service.
+A: **Yes!** This project is licensed under the Apache License 2.0, which explicitly allows commercial use. You can use these prompts for any commercial purpose without restrictions. The Apache 2.0 license also provides explicit patent grants, offering better protection for commercial projects. However, please note that the generated content from AI tools may be subject to the terms of service of the specific AI platform you're using.
 
 **Q: Do I need to credit the repository?**  
 A: While not required, attribution is appreciated when sharing generated content created with prompts from this repository.
@@ -190,7 +190,9 @@ We welcome contributions! Here's how you can help:
 3. **Fix issues**: Report bugs or suggest improvements
 4. **Documentation**: Help improve the documentation
 
-#### Contribution Guidelines
+**📖 For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md)**
+
+#### Quick Contribution Guidelines
 
 - Follow the existing file structure
 - Add clear descriptions for prompts
@@ -237,7 +239,23 @@ To maintain consistency, prompts in this repository follow these standards:
 
 ### 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **Apache License 2.0** - a permissive open-source license that allows:
+
+- ✅ **Commercial Use**: You can use this project for commercial purposes without restrictions
+- ✅ **Modification**: You can modify the code and prompts freely
+- ✅ **Distribution**: You can distribute the project and your modifications
+- ✅ **Private Use**: You can use it privately
+- ✅ **Patent Grant**: Contributors grant you patent rights (explicit patent protection)
+- ✅ **Sublicensing**: You can sublicense your modifications
+
+**Requirements:**
+- Include the original copyright notice and license
+- State any significant changes you made
+- Include a copy of the Apache License 2.0
+
+**Apache 2.0 vs MIT**: Apache 2.0 provides explicit patent grants and better protection against patent litigation, making it ideal for commercial projects.
+
+See the [LICENSE](LICENSE) file for full details.
 
 ### 🙏 Acknowledgments
 
