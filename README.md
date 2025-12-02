@@ -22,43 +22,6 @@ A curated collection of high-quality prompts for image and video generation.
 - 🌍 **Community Driven**: Contributions welcome from the community
 - 📝 **Documentation**: Clear descriptions and creative thinking
 
-### 📁 Project Structure
-
-```
-awesome-image-video-prompts/
-├── README.md
-├── README.zh.md
-├── prompts/
-│   ├── image/
-│   │   ├── artistic/
-│   │   ├── photography/
-│   │   ├── digital-art/
-│   │   └── ...
-│   └── video/
-│       ├── cinematic/
-│       ├── animation/
-│       └── ...
-└── examples/
-```
-
-### 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/CodeTrainerMan/awesome-image-video-prompts.git
-   cd awesome-image-video-prompts
-   ```
-
-2. **Browse prompts**
-   - Navigate to the `prompts/` directory
-   - Explore different categories
-   - Find prompts that match your needs
-
-3. **Use prompts**
-   - Copy the prompt text
-   - Paste into your AI generation tool
-   - Customize as needed for your project
-
 ### 💡 Prompt Writing Tips
 
 #### Best Practices
@@ -125,44 +88,6 @@ A: Different tools excel in different areas. Experiment to find what works best 
 
 We welcome contributions! For detailed contribution guidelines, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-### 📋 Prompt Format Standards
-
-To maintain consistency, prompts in this repository follow these standards:
-
-#### File Naming Convention
-- Format: `category-style-tags.txt` or `category-style-tags.md`
-- Example: `portrait-photorealistic-4k.txt`
-- Use lowercase with hyphens
-
-#### Prompt Structure
-```
-[Title/Description]
-[Main Prompt Text]
-[Optional: Negative Prompt]
-[Optional: Parameters/Settings]
-[Optional: Usage Notes]
-```
-
-#### Metadata Tags
-- `--ar` or `--aspect-ratio`: Aspect ratio (e.g., 16:9, 1:1)
-- `--v` or `--version`: Model version
-- `--style`: Style modifier
-- `--quality`: Quality setting
-- `--seed`: Random seed for reproducibility
-
-### 📊 Statistics
-
-- Total Prompts: [To be updated]
-- Image Prompts: [To be updated]
-- Video Prompts: [To be updated]
-- Contributors: [To be updated]
-
-### 🔗 Related Resources
-
-- [Awesome AI Art](https://github.com/yourusername/awesome-ai-art)
-- [Prompt Engineering Guide](https://github.com/yourusername/prompt-engineering)
-- [AI Art Communities](https://github.com/yourusername/ai-art-communities)
-
 ### 📝 License
 
 This project is licensed under the **Apache License 2.0** - a permissive open-source license that allows:
@@ -189,23 +114,10 @@ See the [LICENSE](LICENSE) file for full details.
 - Inspired by the awesome lists community
 - Special thanks to the AI art community
 
-### 🗺️ Roadmap
+### 📊 Statistics
 
-- [ ] Add 1000+ high-quality prompts
-- [ ] Create prompt templates library
-- [ ] Build search functionality
-- [ ] Add prompt rating system
-- [ ] Create browser extension
-- [ ] Develop API for programmatic access
-- [ ] Add multi-language prompt support
-- [ ] Create prompt generator tool
 
-### 📧 Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/awesome-image-video-prompts/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/awesome-image-video-prompts/discussions)
-- **Email**: [Your Email]
-- **Twitter/X**: [@yourusername]
+[![Star History Chart](https://api.star-history.com/svg?repos=CodeTrainerMan/awesome-image-video-prompts&type=Date)](https://star-history.com/#CodeTrainerMan/awesome-image-video-prompts&Date)
 
 ---
 
